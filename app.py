@@ -75,7 +75,7 @@ else:
     st.warning(body)
 
 
-
+st.markdown('Designed by : **Daksh Chanana**')
 
 
 
